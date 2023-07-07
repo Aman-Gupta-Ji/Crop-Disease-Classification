@@ -51,7 +51,7 @@ CNN, FastAPI, IoT, TensorFlow, React
 
 ## Introduction
 
-Smart agriculture combines technology and traditional farming practices to improve production and make farming easier for farmers. This project utilizes IoT, machine learning, image processing, cloud computing, and Android development to enhance crop quality and prevent crop destruction. By collecting data on crop conditions through IoT, processing real images of crops, training a dataset using deep learning, and providing updates and suggestions through an Android application, this project aims to reduce farm labor and increase efficiency.
+Smart agriculture system combines technology and traditional farming practices to improve production and make farming easier for farmers. This project utilizes IoT, machine learning, image processing, cloud computing, and Android development to enhance crop quality and prevent crop destruction. By collecting data on crop conditions through IoT, processing real images of crops, training a dataset using deep learning, and providing updates and suggestions through an Android application, this project aims to reduce farm labor and increase efficiency.
 
 ## Methodology
 
