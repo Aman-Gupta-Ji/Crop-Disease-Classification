@@ -47,7 +47,8 @@ This smart agriculture system that utilizes IoT, machine learning, image process
 
 ## Index Terms
 
-CNN, FastAPI, IoT, TensorFlow, React
+CNN, FastAPI, IoT, TensorFlow, React Js
+
 
 ## Introduction
 
